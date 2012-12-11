@@ -1,3 +1,5 @@
 teste
 
-adicionando segunda linha
+adicionando segunda linha, e modificando ela
+
+adicionando outra linha
